@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "fish",
+  "base_artist": "TOOBOE",
+  "createdAt": "2026-02-07T13:38:50.819142Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fish In The Sea",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/01_Fish_In_The_Sea_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fish",
+      "artist": "Craig Campbell",
+      "has_synced": true,
+      "path": "select/02_Fish_Craig_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Show Me Your Fish",
+      "artist": "Clayton Anderson",
+      "has_synced": true,
+      "path": "select/03_Show_Me_Your_Fish_Clayton_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Comiendo Gefilte Fish",
+      "artist": "Suéter",
+      "has_synced": false,
+      "path": "select/04_Comiendo_Gefilte_Fish_Suéter.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Enter The Ninja (DJ Fish Sticks Remix)",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/05_Enter_The_Ninja_(DJ_Fish_Sticks_Remix)_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fish Paste",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/06_Fish_Paste_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Friday Fish Fry",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/07_Friday_Fish_Fry_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ian Fish UK Heir",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/08_Ian_Fish_UK_Heir_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fish",
+      "artist": "Mr. Scruff",
+      "has_synced": true,
+      "path": "select/09_Fish_Mr._Scruff.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If I Were a Fish",
+      "artist": "múm",
+      "has_synced": false,
+      "path": "select/10_If_I_Were_a_Fish_múm.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Life As A Fish",
+      "artist": "N.E.R.D",
+      "has_synced": false,
+      "path": "select/11_Life_As_A_Fish_N.E.R.D.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Life As A Fish",
+      "artist": "N.E.R.D.",
+      "has_synced": false,
+      "path": "select/12_Life_As_A_Fish_N.E.R.D..txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Saturday Night Fish Fry",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/13_Saturday_Night_Fish_Fry_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Big Fish",
+      "artist": "Alex G",
+      "has_synced": true,
+      "path": "select/14_Big_Fish_Alex_G.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Big Fish",
+      "artist": "(Sandy) Alex G",
+      "has_synced": false,
+      "path": "select/15_Big_Fish_(Sandy)_Alex_G.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "fish",
+      "artist": "TOOBOE",
+      "has_synced": false,
+      "path": "select/pl_01_fish_TOOBOE.txt"
+    }
+  ]
+}
